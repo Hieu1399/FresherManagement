@@ -1,0 +1,11 @@
+com\vmo\FresherManagement\controller\CenterController.class
+com\vmo\FresherManagement\dao\CenterDAO.class
+com\vmo\FresherManagement\model\Fresher.class
+com\vmo\FresherManagement\CenterApplication.class
+com\vmo\FresherManagement\FresherApplication.class
+com\vmo\FresherManagement\respository\CenterRepo.class
+com\vmo\FresherManagement\respository\FresherRepo1.class
+com\vmo\FresherManagement\dao\FresherDAO.class
+com\vmo\FresherManagement\controller\FresherController.class
+com\vmo\FresherManagement\respository\FresherRepo.class
+com\vmo\FresherManagement\model\Center.class
